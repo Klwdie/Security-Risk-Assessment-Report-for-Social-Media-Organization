@@ -13,6 +13,6 @@ After inspecting the organization’s network, I discovered four major vulnerabi
 
 If no action is taken to address these vulnerabilities, the organization will be at risk of experiencing another data breach or other attacks in the future. 
 
-I have since written a security risk assessment analyzing the four major vulnerabilities and explaining methods that can be used to improve the organization's security posture, and secure users' data and the organization's network. *This security risk assessment can be found in this repository.*
+My task was to write a security risk assessment analyzing the incident and the four major vulnerabilities, explaining methods that can be used to improve the organization's security posture, and secure users' data and the organization's network. *This security risk assessment can be found in this repository.*
 
 ---
